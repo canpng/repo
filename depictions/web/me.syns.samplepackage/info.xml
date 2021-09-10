@@ -1,7 +1,7 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>com.sukarodo.samplepackage</id>
+	<name>Sample Package</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
