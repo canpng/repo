@@ -1,7 +1,7 @@
 <package>
-	<id>xyz.canpng.spotifypre</id>
+	<id>xyz.canpng.spotifypro</id>
 	<name>Spotify Premium</name>
-	<version>1.7a</version>
+	<version>1.7can</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
