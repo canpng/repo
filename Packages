@@ -27,6 +27,6 @@ Section: Tweaks
 Version: 1.0
 Filename: ./debians/xyz.canpng.proturbovpn_1.0_iphoneos-arm.deb
 Size: 3476
-MD5: dabaa0b0e802b07cd1bf55b422653ac5
-Sha1: 084b7869028610d651d6824ccf97a2e4c3b5fe85
-Sha256: 459c6e19afb55b6f9ebe2269a4f41cca11a8921373fbc6d7a17d63da08953a35
+MD5sum: dabaa0b0e802b07cd1bf55b422653ac5
+SHA1: 084b7869028610d651d6824ccf97a2e4c3b5fe85
+SHA256: 459c6e19afb55b6f9ebe2269a4f41cca11a8921373fbc6d7a17d63da08953a35
