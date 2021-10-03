@@ -8,30 +8,11 @@ Depends: mobilesubstrate
 Filename: ./debians/xyz.canpng.prostarvpn_1.0_iphoneos-arm.deb
 Size: 3440
 MD5sum: 2ddd3c63c80535fc1f6706d83813442b
-SHA-1: 3de7db6c8c71b172876fedd4e0ca6a5c1d68b993
-SHA-256: 649b9c173deedadae1b85c9935ac0a409eb46b7f08124724ab910b0a69892b66
-SHA-512: bd994bfab9d79517a653180db117776ad9c7886277410d93f7d8d738c19269e67c2192bc284f09df87c49502d0535bfd9bed853973261417434f766ba982618b
-Homepage: http://www.twitter.com/cnylmz35
+SHA1: 3de7db6c8c71b172876fedd4e0ca6a5c1d68b993
+SHA256: 649b9c173deedadae1b85c9935ac0a409eb46b7f08124724ab910b0a69892b66
+SHA512: bd994bfab9d79517a653180db117776ad9c7886277410d93f7d8d738c19269e67c2192bc284f09df87c49502d0535bfd9bed853973261417434f766ba982618b
 Description: Star VPN uygulamasını Pro hale getirir.
 Name: Pro: Star VPN
-Author: canpng
-
-Package: xyz.canpng.proturbovpn
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: canpng <cnylmz35@hotmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debians/xyz.canpng.proturbovpn_1.0_iphoneos-arm.deb
-Size: 3476
-MD5sum: dabaa0b0e802b07cd1bf55b422653ac5
-SHA1: 084b7869028610d651d6824ccf97a2e4c3b5fe85
-SHA256: 459c6e19afb55b6f9ebe2269a4f41cca11a8921373fbc6d7a17d63da08953a35
-SHA512: b65538c0602501b349223975bb6f95f82202841ef282cddb6c900b2028cd0b6ac78f8d8051e441a8659e799428b8217ec7cb3f1847e3a14cd785e88d2369b048
-Homepage: http://www.twitter.com/cnylmz35
-Description: Turbo VPN uygulamasını Pro hale getirir.
-Name: Pro: Turbo VPN
 Author: canpng
 
 Package: xyz.canpng.spotipro
