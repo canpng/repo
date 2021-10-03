@@ -1,0 +1,34 @@
+Package: xyz.canpng.prostarvpn
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Pro Uygulama
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/xyz.canpng.prostarvpn_1.0_iphoneos-arm.deb
+Size: 3440
+MD5sum: 2ddd3c63c80535fc1f6706d83813442b
+SHA1: 3de7db6c8c71b172876fedd4e0ca6a5c1d68b993
+SHA256: 649b9c173deedadae1b85c9935ac0a409eb46b7f08124724ab910b0a69892b66
+SHA512: bd994bfab9d79517a653180db117776ad9c7886277410d93f7d8d738c19269e67c2192bc284f09df87c49502d0535bfd9bed853973261417434f766ba982618b
+Description: Star VPN uygulamasını Pro hale getirir.
+Name: Pro: Star VPN
+Author: canpng
+
+Package: xyz.canpng.spotipro
+Architecture: iphoneos-arm
+Version: 1.7can
+Section: Tweak
+Maintainer: canpng
+Depends: mobilesubstrate
+Filename: ./debians/xyz.canpng.spotipro.deb
+Size: 100720
+MD5sum: cdfcb7209d55eb82a28a692bc4c4448d
+SHA1: 11c85de17a00ae246bff3b119f5d36f4a9e155f9
+SHA256: 0b9f89d175fee7f8e9c57ef293d1839813f37bb4f90a53b96255795272a4d422
+SHA512: 49dc46ef29e4af7a2b71c344fff779782715f4d6396b1af72a41b03525f9f02b35439505fdb3809ea32e2d973577e301926f54bbb6500340dd87851b5c63d7ef
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Name: Spotify Premium
+Author: Julioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+
