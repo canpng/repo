@@ -33,6 +33,23 @@ Description: Turbo VPN uygulamasını Pro hale getirir.
 Name: Pro: Turbo VPN
 Author: canpng
 
+Package: xyz.canpng.provpnproxymaster
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Pro Uygulama
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/xyz.canpng.provpnproxymaster_1.0_iphoneos-arm.deb
+Size: 8996
+MD5sum: 3727b3ac8651a7428b263564696ab57e
+SHA1: cf68034221f2c92dd62661e8e387fb49664f6e30
+SHA256: acfdd26299ae64eaeaec09ccf8df7c5b86682d50340d3abb7a0df3f26ad6bf03
+SHA512: c16a453f5c1faf4437d3d8e65e7fb593d29a28377d0b865290fe3353ee8fefffdfb6a147ae3965d688833bb03131408b977f37b008750afbc0aca7d1f068c8ee
+Description: VPN Proxy Master uygulamasını Pro hale getirir.
+Name: Pro: VPN Proxy Master
+Author: canpng
+
 Package: xyz.canpng.spotipro
 Architecture: iphoneos-arm
 Version: 1.7can
