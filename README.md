@@ -1,6 +1,6 @@
 <center>
-  <a href="#"><img src="https://i.imgur.com/gKt64bk.png" alt="Logo"></a>
-  <h4 align="center">a modern iOS apt repository template</h4>
+  <a href="#"><img src="https://canpng.github.io/repo/icons/Png.png" alt="Logo"></a>
+  <h4 align="center">Welcome to canpng's repository</h4>
 </center>
 
 <a href="#"><img src="https://i.imgur.com/y4oV9VV.png" alt="colored line"></a>
