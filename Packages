@@ -103,3 +103,21 @@ Name: Spotify Premium
 Author: Julioverne
 Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
 
+Package: xyz.canpng.vivacutfull
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Full Uygulama
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debians/xyz.canpng.vivacutfull_1.0_iphoneos-arm.deb
+Size: 4584
+MD5sum: d848624302fc8c127591bbb8f29844e5
+SHA1: 9a3e1c2ea9b92cbe838de5804591b226418435cd
+SHA256: 111a62b37b694a67efe5312f3a35d2f15a30329e364fb6d3c83b08209f19e4ae
+SHA512: f5958911bfcae45982eebe67f7c13e58e3ae96fdf3c2ed8bd3dd533de0c429682e9c27b1e42e8107eac2ecedca9b62dd25eea7b66dc3ac4667fe9ff961890ba4
+Description:  VivaCut uygulamasını Full hale getirir.
+Name: VivaCut : Full
+Author: canpng
+Icon: https://canpng.github.io/repo/icons/VivaCut.png
+
