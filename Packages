@@ -68,24 +68,6 @@ Description: VPN Proxy Master uygulamasını Pro hale getirir.
 Name: Pro: VPN Proxy Master
 Author: canpng
 
-Package: xyz.canpng.prowindyapp
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Pro Uygulama
-Maintainer: canpng <cnylmz35@hotmail.com>
-Installed-Size: 144
-Depends: mobilesubstrate
-Filename: ./debians/xyz.canpng.prowindyapp_1.0_iphoneos-arm.deb
-Size: 6868
-MD5sum: 4e29ab3bd57d2ef8d3d58f8188c63183
-SHA1: ffbecde3706196ebcf29c0488392c5a06f359870
-SHA256: fe9dfb876015252151c1f1043ad8bd8ae5926ffc3fb987e2c85dc01960f1c7f5
-SHA512: 3de2647a005514a71fa95cd42c7fe2f6232ffb5202a8845410d9dcbbee68a334aa2477ed7b49fb038f0bd44fd58107e9a8fa7868712131917b2436d974613e35
-Description: Windy.app uygulamasını Pro hale getirir.
-Name: Pro: Windy.app
-Author: canpng
-Icon: https://canpng.github.io/repo/icons/Windy.app.jpg
-
 Package: xyz.canpng.spotipro
 Architecture: iphoneos-arm
 Version: 1.7can
@@ -120,4 +102,22 @@ Description:  VivaCut uygulamasını Full hale getirir.
 Name: VivaCut : Full
 Author: canpng
 Icon: https://canpng.github.io/repo/icons/VivaCut.png
+
+Package: xyz.canpng.windyappfull
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Full Uygulama
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debians/xyz.canpng.windyappfull_1.0_iphoneos-arm.deb
+Size: 6856
+MD5sum: 084ee3e61b5d8ec88cba3d0b23765e69
+SHA1: 2cf3ba7e685724bded2ff158ee66b49764ad90d6
+SHA256: 0f948c49a2249e2e9d4eb27fe9f94d46ead3b4ad810d14a1eedef88528c843ed
+SHA512: 042687f776cd61dab0ec465d6d7245df1d9803df9e4065da877b74bef2bb68f5f4f37216b6dff8bf8534693ed8002dac0bcdec8057414c2aed666b1f2d417bcf
+Description: Windy.app uygulamasını Full hale getirir.
+Name: Windy.app : Full
+Author: canpng
+Icon: https://canpng.github.io/repo/icons/Windy.app.jpg
 
