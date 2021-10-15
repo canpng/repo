@@ -1,3 +1,21 @@
+Package: xyz.canpng.prorecolor
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Pro Uygulama
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debians/xyz.canpng.prorecolor_1.0_iphoneos-arm.deb
+Size: 6500
+MD5sum: c6b2845034c9155a60e58c1d26844e73
+SHA1: dbee17958d01bb4aa22fa9b4168e24c42df67ff9
+SHA256: b7485bbb035fc987ecae3eaa88787acd9df3e6bbcc75629ac358671b615799a5
+SHA512: bccb589db44534e86326f89177eb02ae8862f56a21f2deebdf581743986b54e057ff84fd932bb8a29ca8a5af919e3368312d36bdb6b188825b4a1fe4e2d6edb0
+Description: Recolor uygulamasını Pro hale getirir.
+Name: Pro: Recolor
+Author: canpng
+Icon: https://canpng.github.io/repo/icons/Recolor.jpg
+
 Package: xyz.canpng.prostarvpn
 Architecture: iphoneos-arm
 Version: 1.0
