@@ -103,6 +103,24 @@ Name: VivaCut : Full
 Author: canpng
 Icon: https://canpng.github.io/repo/icons/VivaCut.png
 
+Package: xyz.canpng.vivavideofull
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Full Uygulama
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debians/xyz.canpng.vivavideofull_1.0_iphoneos-arm.deb
+Size: 8160
+MD5sum: e01431c91db011a12d828280265a1ef6
+SHA1: ebadded7b5c71c772a550ec5892f637b9681d16c
+SHA256: 9fb8ae1101670879b957b5958abaa88cb8afaa6b30e30d9745c61bf08163e75d
+SHA512: 645f18a16dd4c0007101adc8e19e2ac54b28e59115849fcb516acfa8e851f21368c2d45e9212a57cbe37f20056f7e2de46fcecbc6f6375e1fed12d96ec0cc9f8
+Description: VivaVideo uygulamasını Full hale getirir.
+Name: VivaVideo : Full
+Author: canpng
+Icon: https://canpng.github.io/repo/icons/VivaVideo.png
+
 Package: xyz.canpng.windyappfull
 Architecture: iphoneos-arm
 Version: 1.0
