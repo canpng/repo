@@ -1,3 +1,39 @@
+Package: xyz.canpng.cpuxfull
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Full Uygulama
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/xyz.canpng.cpuxfull_1.5.1_iphoneos-arm.deb
+Size: 4064
+MD5sum: 01ed08639d891c3ed2f2b9ed4ff4686e
+SHA1: 28aa2bb0b0337283e093e08dc83f45e7eaa34bdc
+SHA256: 685524045ad6447f158174ce20a20d0a51af30a153031120eacbf414ff171e96
+SHA512: 37c2b352af761691780769287bd07e5ceac6f1a8b664201e15da855370539f5d8db66191466d8489da750f9ef37280ae30048ca59a7ff8446b0cfb417cbf5f55
+Description: CPU-X uygulamasını Full hale getirir.
+Name: CPU-X : Full
+Author: canpng
+Icon: https://canpng.github.io/repo/icons/CPUX.png
+
+Package: xyz.canpng.phonescanfull
+Architecture: iphoneos-arm
+Version: 1.5-1
+Section: Full Uygulama
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/xyz.canpng.phonescanfull_1.5-1_iphoneos-arm.deb
+Size: 3504
+MD5sum: aba142111f70ec57f598491f4c49578d
+SHA1: f40a97b0b718a007dd191dfa05aa39f17abe1cf4
+SHA256: da5be6bd4bcb8c565ca42463f33e73c6ca64bc315635c80e26d35bd61e930cfc
+SHA512: c6c1b5af50633a9832e3edd18eed51a3ae991941fd978e1d320fc97719ad59060f993995f415b94ccd7ce2f1b129384952497203981b715e241b54ff11b833d9
+Description: PhoneScan uygulamasını Full hale getirir.
+Name: PhoneScan : Full
+Author: canpng
+Icon: https://canpng.github.io/repo/icons/PhoneScan.jpg
+
 Package: xyz.canpng.prorecolor
 Architecture: iphoneos-arm
 Version: 1.0
