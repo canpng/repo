@@ -16,6 +16,24 @@ Name: CPU-X : Full
 Author: canpng
 Icon: https://canpng.github.io/repo/icons/CPUX.png
 
+Package: xyz.canpng.homegesture
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Sistem
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debians/xyz.canpng.homegesture_1.0_iphoneos-arm.deb
+Size: 4384
+MD5sum: 201c8b384ae101815f8c5d859d29641a
+SHA1: 28d912819809ce927602591cbea7082d6bcf7b3e
+SHA256: 6ff40a75572be09926f25c8f01a1755613c7c87a582803c352f8efa8e8fc9327
+SHA512: 9450315651db3588d1e84852d197660559006585f09c8498b10c8d7ddd1637082bda9fa648d9313d97e59ab4039f32debb0e4b4bf8ed6779c7a5a90981fa2edb
+Description: Eski cihazlarda iPhone X deneyimini edinin
+Name: Home Gesture
+Author: canpng
+Icon: https://canpng.github.io/repo/icons/Homegesture.png
+
 Package: xyz.canpng.phonescanfull
 Architecture: iphoneos-arm
 Version: 1.5-1
