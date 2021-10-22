@@ -4,9 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/syns/repo.me/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "me.syns.samplepackage",
+        "url": "https://canpng.github.io/repo/assets/Banners/CPUX.png",
+        "title": "CPU-X : Full",
+        "package": "xyz.canpng.cpuxfull",
         "hideShadow": false
     }
   ]
