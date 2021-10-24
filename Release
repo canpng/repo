@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: xyz.canpng
+Components: main
+Date: Sat, 23 Oct 2021 18:07:10 +0000
+Description: canpng'nin Reposu
+Label: canpng's Repo
+Origin: canpng's Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 4c5e3bcbecdc76b106ce7ecfb15cbf48             7653 Packages
+ b6c2324f5cc6ed286ec7dfed65940b74             2855 Packages.bz2
+ 64a313639d5bae284e7231a9cb4d8c61             2861 Packages.gz
+ e172901ea328608e4230c7c3ea8db66d             2692 Packages.xz
+ 9108e3f37560284c6963a9e7c9667ef9             2697 Packages.zst
+ ccf29f33bf8d0da8602b20a23becd8c2              205 Release
+SHA1:
+ dc6d971cc841ab65774dfd54e927208e11833b8d             7653 Packages
+ 3136f57fedf48b688708d648d72b283d1759ded4             2855 Packages.bz2
+ 52e82575f779170f5cc06a7ad3491f8c70894fd0             2861 Packages.gz
+ beccabbae5cf5c5b5e1a555611534d54aaeb42e7             2692 Packages.xz
+ 7c0912648a9fe7b133ce1af1469f7e28b5cc07b8             2697 Packages.zst
+ dc87f1f2a6131e30c2dc26ea0a771427017d0490              205 Release
+SHA256:
+ e53900e241dd824cd4cded0ef32deb21b030aed70676832e0326894d44025c05             7653 Packages
+ cab1d23e30c7ef0af8916d53864b1dd1b206e28543740a6f7baf4e7df9f27cc2             2855 Packages.bz2
+ aaab7bc8c6aefb1c8b013797ec094a050da76522bbde84fe2e10e21d1f34b9ef             2861 Packages.gz
+ 732da60232d52c90ee6123588ad827e81f66aba6b075eb7da3918fe46065132b             2692 Packages.xz
+ 68d4653fcd480541670dabe85bb16dac9750848d29c1352a1d817c1037b889df             2697 Packages.zst
+ 1297d99c0c785d0e3ef5d5c8d7814188666192e8aeff4b5290a711b3d64ae563              205 Release
+SHA512:
+ 45a4b24a309e3ec7404c4a33727921ecf2e5db08144162301b0ec6bc89b78284ec12fd3f9b9769db0d62089b356f02c88f625a8109edb5af9b93c7d9d450ff0e             7653 Packages
+ 39532175a363b539342bf5cf6233d7b619415bcbb310c280eb423ae0b0baf53fc96b574a7abc8988426933fcf6a5046d5be7c34682f6f641b4274d69f5aeb24f             2855 Packages.bz2
+ 15cd5e1ba24c3248495ed262c06c5cf08ae1ef8ae6623e904d1f88298d627ce01a7987b13c168ab99dffdc8fd2d05f52bc104bd5042f8270fa4807cf3e61b7a9             2861 Packages.gz
+ e320f08e90a8cbcf12f8f0ff0f2cfdac901c04157ce73bdb08b0bf616744b6cfb10eaa20120c1ff0aaae63665af4859428ef07aa7a6bddf99e224df07dbd7767             2692 Packages.xz
+ 87d4a89e4ea90456f911c425574d3b5ae2acde26e6107e31418e825dd4893393e7562f54d2a77d4a8036cafb6e990e81d745c4ffef7054b57817ca43ca771262             2697 Packages.zst
+ c16753efa50ff17ab82f1df3799265ca6990c11eef8d94806bc8eafa80ef482c70d8e708290872ca244a55ed81c3cebcb46f484bc9d17ea0445ffef3821993be              205 Release
