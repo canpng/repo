@@ -12,7 +12,7 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
     
     apt-ftparchive release -c ./assets/repo/repo.conf . > Release
     
-    echo "Repo Güncellendi!"
+    echo "Repository Updated, thanks for using repo.me!"
     elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" == i386 ]]; then # macOS usage of repo.me
     cd "$(dirname "$0")" || exit
     
@@ -39,7 +39,7 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
     
     ./apt-ftparchive release -c ./assets/repo/repo.conf . > Release
     
-    echo "Repo Güncellendi!"
+    echo "Repository Updated, thanks for using repo.me!"
     elif [[ "$(uname -r)" == *Microsoft ]]; then # WSL 1 usage of repo.me
     cd "$(dirname "$0")" || exit
     
@@ -53,7 +53,7 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
     
     apt-ftparchive release -c ./assets/repo/repo.conf . > Release
     
-    echo "Repo Güncellendi!"
+    echo "Repository Updated, thanks for using repo.me!"
     elif [[ "$(uname -r)" == *microsoft-standard ]]; then # WSL 2 usage of repo.me
     cd "$(dirname "$0")" || exit
     
@@ -67,7 +67,7 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
     
     apt-ftparchive release -c ./assets/repo/repo.conf . > Release
     
-    echo "Repo Güncellendi!"
+    echo "Repository Updated, thanks for using repo.me!"
     elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" != i386 ]]; then # iOS/iPadOS usage of repo.me
     cd "$(dirname "$0")" || exit
     echo "Checking for apt-ftparchive..."
@@ -85,7 +85,7 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
 
     apt-ftparchive release -c ./assets/repo/repo.conf . > Release
 
-    echo "Repo Güncellendi!"
+    echo "Repository Updated, thanks for using repo.me!"
 else
     echo "Running an unsupported operating system...? Contact me via Twitter @truesyns" # incase I've missed support for something, they should be contacting me.
 fi
