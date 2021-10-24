@@ -52,6 +52,23 @@ Name: PhoneScan : Full
 Author: canpng
 Icon: https://canpng.github.io/repo/icons/PhoneScan.jpg
 
+Package: xyz.canpng.repoicon
+Architecture: iphoneos-arm
+Version: 1.0
+Essential: Yes
+Section: İkon
+Maintainer: canpng
+Filename: ./debians/xyz.canpng.repoicon_1.0_iphoneos-arm.deb
+Size: 60552
+MD5sum: 0ef9a34d1874b9f040a22455d249899f
+SHA1: f2be728cab1b52ee0ce5be5dc4f85e0124b346ef
+SHA256: 5a051beaf576fce02ae0aa50ec04c1d686c246528081b2fe7c788a741f9b8cb2
+SHA512: 380e238f21ed4c582cb2342ecfc3b042f4a18a87f0f532426f26c90854f2198488b1a672ba0fdfa7930ad86ddd278e4c0cba7bc2467c73832a145b1440179780
+Description: canpng Repo İkonları
+Name: canpng Repo İkonları
+Icon: https://canpng.github.io/repo/icons/Sistem.png
+Author: canpng <cnylmz35@hotmail.com>
+
 Package: xyz.canpng.vivacutfull
 Architecture: iphoneos-arm
 Version: 1.0
