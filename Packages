@@ -16,6 +16,24 @@ Name: CPU-X : Full
 Author: canpng
 Icon: https://canpng.github.io/repo/icons/CPUX.png
 
+Package: xyz.canpng.hidelabels
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Sistem
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/xyz.canpng.hidelabels_1.0_iphoneos-arm.deb
+Size: 3536
+MD5sum: 7f1e09629a143dec8e8a889dba9ebe00
+SHA1: bfd79dd7336c47ee3afa0a0f08fbe88239c59c5c
+SHA256: a1c0e101487339771ce95ad6ba87384afd258d2e35a004804793298d878601f3
+SHA512: cb7eb104b7d3defc51f508efca22bf307db67d1c18af553ed3589b9906e89c59d0c19f6088d8934b88e321101ad69fe114ba681e8138bf76efe1f8bfca9c10cb
+Description: Ana ekrandaki uygulama isimlerini gizler.
+Name: Hide Labels
+Author: canpng
+Icon: https://canpng.github.io/repo/icons/Sistem.png
+
 Package: xyz.canpng.homegesture
 Architecture: iphoneos-arm
 Version: 1.0
