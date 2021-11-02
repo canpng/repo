@@ -1,20 +1,21 @@
-Package: xyz.canpng.cpuxfull
+Package: com.canpng.cpux.full
 Architecture: iphoneos-arm
 Version: 1.5.1
 Section: Full Uygulama
 Maintainer: canpng <cnylmz35@hotmail.com>
-Installed-Size: 136
+Installed-Size: 264
 Depends: mobilesubstrate
-Filename: ./debians/xyz.canpng.cpuxfull_1.5.1_iphoneos-arm.deb
-Size: 4064
-MD5sum: 01ed08639d891c3ed2f2b9ed4ff4686e
-SHA1: 28aa2bb0b0337283e093e08dc83f45e7eaa34bdc
-SHA256: 685524045ad6447f158174ce20a20d0a51af30a153031120eacbf414ff171e96
-SHA512: 37c2b352af761691780769287bd07e5ceac6f1a8b664201e15da855370539f5d8db66191466d8489da750f9ef37280ae30048ca59a7ff8446b0cfb417cbf5f55
+Filename: ./debians/com.canpng.cpux.full_1.5.1_iphoneos-arm.deb
+Size: 7374
+MD5sum: 6b265ebb1c8b22120674cbdf74800aab
+SHA1: add90f08c794f8116d3bd8b06aa395cc7c7cd6a2
+SHA256: 51cd35fceddf655e9e5d27c131ef6390f7b0e7d8f67be6f4b83483a264320739
+SHA512: d0b6fd11ead23162b0b2e3423fb938d0c695514ef87f7e17a0427c403f079e6df084e8a9baee794ff3e0eef184d73dc86f42a8f5a31611ebe8c0841fbfc05844
 Description: CPU-X uygulamasını Full hale getirir.
 Name: CPU-X : Full
 Author: canpng
 Icon: https://canpng.github.io/repo/icons/CPUX.png
+Depiction: https://canpng.github.io/repo/depictions/com.canpng.cpux.full/index.html
 
 Package: xyz.canpng.hidelabels
 Architecture: iphoneos-arm
