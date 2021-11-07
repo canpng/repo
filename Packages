@@ -17,3 +17,22 @@ Author: canpng
 Icon: https://canpng.github.io/repo/icons/CPUX.png
 Depiction: https://canpng.github.io/repo/depictions/com.canpng.cpux.full/index.html
 
+Package: com.canpng.kinemaster.full
+Architecture: iphoneos-arm
+Version: 5.2.1
+Section: Full Uygulama
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debians/com.canpng.kinemaster.full_5.2.1_iphoneos-arm.deb
+Size: 12122
+MD5sum: ba3700f21125fc68f3f856a3a05a9026
+SHA1: 9e0f122ab6b9108172e3f6fe7d47381aaf2b4183
+SHA256: 91089e4b5650cb46a0a8d2b4494e4716597ce68c4b007273c0dba50ffbaea6d7
+SHA512: c2230fe23f215497957ff07f788a87574b9d1f423f95a7726bc6d2d6d07783a3759cceecea8478f92312355a3c3d6862027d558687a5e2b786a3214b6797ce0c
+Description: KineMaster uygulamasını Full hale getirir.
+Name: KineMaster : Full
+Author: canpng
+Icon: https://canpng.github.io/repo/icons/KineMaster.png
+Depiction: https://canpng.github.io/repo/depictions/com.canpng.kinemaster.full/index.html
+
