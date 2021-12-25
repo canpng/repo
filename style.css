@@ -44,6 +44,11 @@ footer {
     margin-top: 20px;
     text-align: center;
     color: rgba(255, 255, 255, 0.397);
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 
 hr {
@@ -108,10 +113,16 @@ a {
     font-size: 25px;
     text-align: center;
     font-weight: 600;
+	-webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 .mg {
     margin-top: 15px;
 }
+
 .container {
     background-color: rgba(0, 0, 0, 0.842);
     color: #fff;
@@ -155,13 +166,13 @@ a {
 
 @keyframes shadowBreathe {
   0% {
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.144);
+    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.144);
   }
   50% {
-    box-shadow: 0px 4px 10px rgba(0, 132, 255, 0.493);
+    box-shadow: 0px 6px 20px rgba(0, 132, 255, 0.493);
   }
   100% {
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.144);
+    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.144);
   }
 }
 
