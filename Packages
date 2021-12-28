@@ -36,3 +36,22 @@ Author: canpng
 Icon: https://canpng.github.io/repo/icons/KineMaster.png
 Depiction: https://canpng.github.io/repo/depictions/com.canpng.kinemaster.full/index.html
 
+Package: com.canpng.weatherlive.full
+Architecture: iphoneos-arm
+Version: 7.2.11
+Section: Weather
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 524
+Depends: mobilesubstrate
+Filename: ./debians/com.canpng.weatherlive.full_7.2.11_iphoneos-arm.deb
+Size: 139898
+MD5sum: 8c6858ce6140ebecf66b9e5a1f787ffe
+SHA1: 5065482b44a84e23b7abeeb4643bb49630989d70
+SHA256: da64788e7adacc619e48c3228b19bf79c10a0a088f11c11ba586a10be4693253
+SHA512: ac924fd97090fb7006b22b4c5892c55e7d7946a2c6cab33ba77efbfc4346587ebfbb99758b0cbf68f1f20d29ae2b64929cb04638466c16b3e88878cfc36e742c
+Description: Makes Weather Live application Full.
+Name: Weather Live : Full
+Author: canpng <cnylmz35@hotmail.com>
+Icon: https://canpng.github.io/repo/icons/WeatherLive.png
+Depiction: https://canpng.github.io/repo/depictions/com.canpng.weatherlive.full/index.html
+
