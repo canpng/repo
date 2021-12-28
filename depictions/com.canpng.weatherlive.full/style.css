@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    background: rgba(28, 28, 30, 1);
+    font-family: Poppins, sans-serif;
+}
+
+.flex {
+    display: flex;
+}
+
+.author-img {
+    background-image: url(https://canpng.github.io/repo/icons/elon.png);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.author-name {
+    line-height: 50px;
+    margin-left: 8px;
+}
+
+.author-twitter {
+	background-image: url(https://canpng.github.io/repo/icons/png-twitter.png);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.fl-lf {
+    float: left;
+}
+.fl-rg {
+    float: right;
+}
+
+
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.397);
+}
+
+hr {
+    margin: 0;
+}
+
+.author-telegram {
+    background-image: url(https://canpng.github.io/repo/icons/png-telegram.png);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: auto;
+}
+
+.app-icon {
+    background-image: url(https://canpng.github.io/repo/icons/WeatherLive.png);
+    height: 80px;
+    width: 80px;
+    background-size: cover;
+    border-radius: 22%;
+    display: flex;
+    margin: auto;
+}
+
+.app-name {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.button {
+    background-color: rgba(10, 132, 255, 1);
+    width: auto;
+    text-align: center;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 0 0 15px rgba(10, 132, 255, 0.322);
+    margin: 10px;
+    border-radius: 15px;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;}
+
+.firmware {
+    background-color: rgb(48, 209, 88);
+    color: #fff;
+    text-align: center;
+    padding: 6px;
+    border-radius: 50px;
+}
+
+.blue {
+    color: rgba(10, 132, 255, 1);
+}
+
+.icon {
+    font-size: 25px;
+    margin-right: 5px;
+}
+
+.block-title {
+    color: #fff;
+    margin-top: 15px;
+    margin-bottom: 6px;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+}
+.mg {
+    margin-top: 15px;
+}
+.container {
+    background-color: rgba(0, 0, 0, 0.842);
+    color: #fff;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.521);
+	text-align: center;
+
+}
+
+.carousel {
+    margin-left: -.75rem;
+    margin-right: -.75rem;
+}
+.carousel {
+    display: flex;
+    justify-content: start;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 50%;
+    list-style: none;
+    line-height: 0;
+    padding: 0;
+    height: auto;
+}
+
+@media screen and ( min-width: 768px ) {
+    /* half-width cells for larger devices */
+    .gallery-cell { 
+        width: 100%;
+        margin-right: 5px;
+     }
+  }
+  
+  @media screen and ( min-width: 350px ) {
+    /* half-width cells for larger devices */
+    .gallery-cell { 
+        width: 250px;
+        margin-right: 5px; }
+  }
