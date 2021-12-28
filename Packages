@@ -36,6 +36,25 @@ Author: canpng
 Icon: https://canpng.github.io/repo/icons/KineMaster.png
 Depiction: https://canpng.github.io/repo/depictions/com.canpng.kinemaster.full/index.html
 
+Package: com.canpng.qrreader.full
+Architecture: iphoneos-arm
+Version: 8.7
+Section: Utilities
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 524
+Depends: mobilesubstrate
+Filename: ./debians/com.canpng.qrreader.full_8.7_iphoneos-arm.deb
+Size: 139586
+MD5sum: 6d7ba4c45343a45058329e59508ffd2e
+SHA1: 1dbb20f57760a1ab09f3e6ea95c0d49f7edd5585
+SHA256: 602002d08fa4386782cf41296ecb1f42cbc8467e49e01949e108f4a9ddc24136
+SHA512: d2101dd1705abbe509a85e6674885becdc1a528691d98b0df9f81efe62fe494c0709d9f3ea09083e68feef5b8ac2ed8146450cb3b2a5246b960250a688584c33
+Description: Makes QR Reader application Full.
+Name: QR Reader : Full
+Icon: https://canpng.github.io/repo/icons/QRreader.png
+Author: canpng <cnylmz35@hotmail.com>
+Depiction: https://canpng.github.io/repo/depictions/com.canpng.qrreader.full/index.html
+
 Package: com.canpng.weatherlive.full
 Architecture: iphoneos-arm
 Version: 7.2.11
