@@ -55,6 +55,25 @@ Icon: https://canpng.github.io/repo/icons/QRreader.png
 Author: canpng <cnylmz35@hotmail.com>
 Depiction: https://canpng.github.io/repo/depictions/com.canpng.qrreader.full/index.html
 
+Package: com.canpng.scanner.full
+Architecture: iphoneos-arm
+Version: 3.3
+Section: Utilities
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 524
+Depends: mobilesubstrate
+Filename: ./debians/com.canpng.scanner.full_3.3_iphoneos-arm.deb
+Size: 139626
+MD5sum: 0092f66da3527f8706d0bfbc38ba9881
+SHA1: 99705137c58b5c8aa08eef3f60c76eddcba27aa7
+SHA256: e9f590f929e5f6c4721ccb72a6bcbd71536cc5c3f0cbd79c931ae572ecba1020
+SHA512: d35bda907bd02c7a50133231d3bc1d711b74c805169f57f6562f255ff350ffbd0ffdb93de9b5de5d3f3e14e2eaef43685e566945a30daac81efa0a27cef7b14c
+Description: Makes Scanner application Full.
+Name: Scanner : Full
+Icon: https://canpng.github.io/repo/icons/Scanner.jpg
+Author: canpng <cnylmz35@hotmail.com>
+Depiction: https://canpng.github.io/repo/depictions/com.canpng.scanner.full/index.html
+
 Package: com.canpng.weatherlive.full
 Architecture: iphoneos-arm
 Version: 7.2.11
