@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures restrictions</string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.96FC5400-24A7-49AC-A310-58E8B5351179</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>96FC5400-24A7-49AC-A310-58E8B5351179</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>enforcedSoftwareUpdateDelay</key>
+			<integer>84</integer>
+			<key>forceDelayedSoftwareUpdates</key>
+			<true/>
+			<key>allowUSBRestrictedMode</key>
+			<false/>
+			<key>RemovalDate</key>
+			<date>2022-01-01T00:00:00Z</date>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Update to iOS 14.8</string>
+	<key>PayloadDisplayName</key>
+	<string>iOS 14.8 Update Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>Opening this file is PROHIBITED under section 19 of the Data Protection Act 1998? Don't ask what that is (rude)</string>
+	<key>PayloadOrganization</key>
+	<string>Saunders Tech</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3AA2EEFD-DBAB-4984-A1E8-45EECEC7DA37</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
