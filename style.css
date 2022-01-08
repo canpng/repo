@@ -119,18 +119,7 @@ a {
     -o-user-select: none;
     user-select: none;
 }
-.b-text {
-    color: #fff;
-    margin-top: 0px;
-    margin-bottom: 6px;
-    font-size: 15px;
-    text-align: center;
-	-webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -o-user-select: none;
-    user-select: none;
-}
+
 .mg {
     margin-top: 15px;
 }
