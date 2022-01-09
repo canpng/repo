@@ -1,3 +1,22 @@
+Package: com.canpng.bonusflas.bypass
+Architecture: iphoneos-arm
+Version: 3.8.1
+Section: Finance
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 528
+Depends: mobilesubstrate
+Filename: ./debians/com.canpng.bonusflas.bypass_3.8.1_iphoneos-arm.deb
+Size: 141248
+MD5sum: 27e66806b1a7d18ad3940aa2f519ada1
+SHA1: bf18c93580a6b935d28d656258579f84261f2f99
+SHA256: 03905a809d9b874ec39d94a85d731c8252a340236fb9e23f351c12be50ae0edd
+SHA512: a657bb43e8721d51111357c9133fd6304254ae6e8621d8474b28ac004de7290f7d293f215c4c92a75228a881b7fbd8f809bda0f0c4b132792fb8ad60b0343497
+Description: Jailbreak bypass patch for BonusFlaş app.
+Name: BonusFlaş : Jailbreak Bypass
+Icon: https://canpng.github.io/repo/icons/Bonusflas.jpg
+Author: canpng <cnylmz35@hotmail.com>
+Depiction: https://canpng.github.io/repo/depictions/com.canpng.bonusflas.bypass/index.html
+
 Package: com.canpng.cpux.full
 Architecture: iphoneos-arm
 Version: 1.5.1
