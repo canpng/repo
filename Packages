@@ -1,16 +1,16 @@
 Package: com.canpng.bonusflas.bypass
 Architecture: iphoneos-arm
 Version: 3.8.1
-Section: Finance
+Section: Tweak
 Maintainer: canpng <cnylmz35@hotmail.com>
 Installed-Size: 528
 Depends: mobilesubstrate
 Filename: ./debians/com.canpng.bonusflas.bypass_3.8.1_iphoneos-arm.deb
-Size: 141248
-MD5sum: 27e66806b1a7d18ad3940aa2f519ada1
-SHA1: bf18c93580a6b935d28d656258579f84261f2f99
-SHA256: 03905a809d9b874ec39d94a85d731c8252a340236fb9e23f351c12be50ae0edd
-SHA512: a657bb43e8721d51111357c9133fd6304254ae6e8621d8474b28ac004de7290f7d293f215c4c92a75228a881b7fbd8f809bda0f0c4b132792fb8ad60b0343497
+Size: 141076
+MD5sum: 2eda3b4604d33b6fd05b6eb3aa71ecad
+SHA1: b520035412fcea443b9e84d103cdf2b26e9e0acf
+SHA256: 9240e3c03cfa454bb2a26e8ddfc65c210ba2f4a073a241d2a66f435045d54bf1
+SHA512: 2a98dbdd11ef27b133b010c05873d374c22099a3459c6c1a008f051ec98776b880c03676894a2ddd2325616f7c23c56c3b9434371bf920d19da4952e4890a3d9
 Description: Jailbreak bypass patch for BonusFlaş app.
 Name: BonusFlaş : Jailbreak Bypass
 Icon: https://canpng.github.io/repo/icons/Bonusflas.jpg
@@ -55,6 +55,25 @@ Icon: https://canpng.github.io/repo/icons/eNabız.jpg
 Author: canpng <cnylmz35@hotmail.com>
 Depiction: https://canpng.github.io/repo/depictions/com.canpng.enabız.bypass/index.html
 
+Package: com.canpng.homegesture
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweak
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debians/com.canpng.homegesture_1.0_iphoneos-arm.deb
+Size: 4306
+MD5sum: 45abbcfaa6f6dead81a6ba441980aa6a
+SHA1: f98d5687ab4cf430dbf3a3cc78146bc6b045971a
+SHA256: c566ccd0573ebf0419c63f46ce38a2ac3417aa499effc6e5bc7d71270a67c19d
+SHA512: df6bb64a9b89e0ec3c3b56881ef14d1b3816ae5c6cd148c89614860abc446855e17d6153ee691b892a6eebdff61b943e408dd4fb541e78115013a8f134cf40cf
+Description: Home gesture support for old iDevices.
+Name: Home Gesture : Support
+Author: canpng <cnylmz35@hotmail.com>
+Icon: https://canpng.github.io/repo/icons/Tweak.png
+Depiction: https://canpng.github.io/repo/depictions/com.canpng.homegesture/index.html
+
 Package: com.canpng.kinemaster.full
 Architecture: iphoneos-arm
 Version: 5.2.1
@@ -92,6 +111,24 @@ Name: QR Reader : Full
 Icon: https://canpng.github.io/repo/icons/QRreader.png
 Author: canpng <cnylmz35@hotmail.com>
 Depiction: https://canpng.github.io/repo/depictions/com.canpng.qrreader.full/index.html
+
+Package: com.canpng.repoicons
+Architecture: iphoneos-arm
+Version: 1.0
+Essential: Yes
+Section: Themes
+Maintainer: canpng <cnylmz35@hotmail.com>
+Filename: ./debians/com.canpng.repoicons_1.0_iphoneos-arm.deb
+Size: 126848
+MD5sum: 0e0b52f7a26dfb98fa21d0f1a90d890e
+SHA1: c51eba6d7e9a56fbc10cff8ed5a206308afdd5d7
+SHA256: 0747d01879e8a4331a6729e0ea4e30c91b977de1ac6cf0750635bf85f0bd52c7
+SHA512: 49bafb3006c79b1da128206243535edf449d7100efa14b169d10b8da2342bd66a3af078bac846dabb2506cc470fa1066e6eabe6e4be180a496c447000bd23dd0
+Description: canpng's Repo Icons
+Name: canpng's Repo Icons
+Depiction: https://canpng.github.io/repo/depictions/com.canpng.repoicons/index.html
+Author: canpng <cnylmz35@hotmail.com>
+Icon: https://canpng.github.io/repo/icons/Themes.png
 
 Package: com.canpng.scanner.full
 Architecture: iphoneos-arm
