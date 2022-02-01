@@ -1,40 +1,21 @@
 Package: com.canpng.bonusflas.bypass
 Architecture: iphoneos-arm
 Version: 3.8.1
-Section: Tweak
+Section: PNG - Tweaks
 Maintainer: canpng <cnylmz35@hotmail.com>
 Installed-Size: 528
 Depends: mobilesubstrate
 Filename: ./debians/com.canpng.bonusflas.bypass_3.8.1_iphoneos-arm.deb
-Size: 141076
-MD5sum: 2eda3b4604d33b6fd05b6eb3aa71ecad
-SHA1: b520035412fcea443b9e84d103cdf2b26e9e0acf
-SHA256: 9240e3c03cfa454bb2a26e8ddfc65c210ba2f4a073a241d2a66f435045d54bf1
-SHA512: 2a98dbdd11ef27b133b010c05873d374c22099a3459c6c1a008f051ec98776b880c03676894a2ddd2325616f7c23c56c3b9434371bf920d19da4952e4890a3d9
+Size: 198574
+MD5sum: 9f2413a82b0cc54ebbca4814080fe148
+SHA1: f23cdb0c4b13f57ac3cedc7e0d47deccdb67ccf0
+SHA256: ac2c61bb5ba0abc012e51921ea259d190c9b995917184e1508199205e3b14e0d
+SHA512: b596a5f1d3420282f364b23245b4927db2c7a8a96bd0efafc5f1cda9cee9672f7e700b480e9f46305ea515479ad03048034841180ddb80dce5e309b6f2d5773a
 Description: Jailbreak bypass patch for BonusFlaş app.
 Name: BonusFlaş : Jailbreak Bypass
 Icon: https://canpng.github.io/repo/icons/Bonusflas.jpg
 Author: canpng <cnylmz35@hotmail.com>
 Depiction: https://canpng.github.io/repo/depictions/com.canpng.bonusflas.bypass/index.html
-
-Package: com.canpng.cpux.full
-Architecture: iphoneos-arm
-Version: 1.5.1
-Section: Full Uygulama
-Maintainer: canpng <cnylmz35@hotmail.com>
-Installed-Size: 264
-Depends: mobilesubstrate
-Filename: ./debians/com.canpng.cpux.full_1.5.1_iphoneos-arm.deb
-Size: 7374
-MD5sum: 6b265ebb1c8b22120674cbdf74800aab
-SHA1: add90f08c794f8116d3bd8b06aa395cc7c7cd6a2
-SHA256: 51cd35fceddf655e9e5d27c131ef6390f7b0e7d8f67be6f4b83483a264320739
-SHA512: d0b6fd11ead23162b0b2e3423fb938d0c695514ef87f7e17a0427c403f079e6df084e8a9baee794ff3e0eef184d73dc86f42a8f5a31611ebe8c0841fbfc05844
-Description: CPU-X uygulamasını Full hale getirir.
-Name: CPU-X : Full
-Author: canpng
-Icon: https://canpng.github.io/repo/icons/CPUX.png
-Depiction: https://canpng.github.io/repo/depictions/com.canpng.cpux.full/index.html
 
 Package: com.canpng.enabiz.bypass
 Architecture: iphoneos-arm
@@ -58,16 +39,16 @@ Depiction: https://canpng.github.io/repo/depictions/com.canpng.enabız.bypass/in
 Package: com.canpng.homegesture
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweak
+Section: PNG - Tweaks
 Maintainer: canpng <cnylmz35@hotmail.com>
 Installed-Size: 264
 Depends: mobilesubstrate
 Filename: ./debians/com.canpng.homegesture_1.0_iphoneos-arm.deb
-Size: 4306
-MD5sum: 45abbcfaa6f6dead81a6ba441980aa6a
-SHA1: f98d5687ab4cf430dbf3a3cc78146bc6b045971a
-SHA256: c566ccd0573ebf0419c63f46ce38a2ac3417aa499effc6e5bc7d71270a67c19d
-SHA512: df6bb64a9b89e0ec3c3b56881ef14d1b3816ae5c6cd148c89614860abc446855e17d6153ee691b892a6eebdff61b943e408dd4fb541e78115013a8f134cf40cf
+Size: 8708
+MD5sum: ba4e55223adaee5c00e4e2d4cd5f897f
+SHA1: 7e17d457303a2e1647ce41eed86ac2ab12cd62fe
+SHA256: e09b6d47d15a307ea356bdf54ab891a90678cc3befaaacf8ea051c652c2f7659
+SHA512: 3f5b170ce4d8011abaf56d3368a854cd192c22cdf92cb3b9d56a86273920f25b3a6301eb48846a9963865fe412c3877d874e5bc0cde39cedba05638e22e214e8
 Description: Home gesture support for old iDevices.
 Name: Home Gesture : Support
 Author: canpng <cnylmz35@hotmail.com>
@@ -77,16 +58,16 @@ Depiction: https://canpng.github.io/repo/depictions/com.canpng.homegesture/index
 Package: com.canpng.kinemaster.full
 Architecture: iphoneos-arm
 Version: 5.2.1
-Section: Full Uygulama
+Section: PNG - Full Apps
 Maintainer: canpng <cnylmz35@hotmail.com>
 Installed-Size: 264
 Depends: mobilesubstrate
 Filename: ./debians/com.canpng.kinemaster.full_5.2.1_iphoneos-arm.deb
-Size: 12122
-MD5sum: ba3700f21125fc68f3f856a3a05a9026
-SHA1: 9e0f122ab6b9108172e3f6fe7d47381aaf2b4183
-SHA256: 91089e4b5650cb46a0a8d2b4494e4716597ce68c4b007273c0dba50ffbaea6d7
-SHA512: c2230fe23f215497957ff07f788a87574b9d1f423f95a7726bc6d2d6d07783a3759cceecea8478f92312355a3c3d6862027d558687a5e2b786a3214b6797ce0c
+Size: 23732
+MD5sum: b3c272237fcea264bd63d43b571de2b2
+SHA1: 532ac5538c4a362092c8610375c41050960b50f7
+SHA256: f33ba0fbc93f6f11ae270dad57bfee0bfcb18f04c048ec53254c9edf665d12ad
+SHA512: 173e5593c19ba63398c70a37734de531d0a26ae97c0ba6c0e311dcad64e55a39b11f6045db262431d4af46c3defdb2b0c9fd82966c7992b10f1cf644172a6b81
 Description: KineMaster uygulamasını Full hale getirir.
 Name: KineMaster : Full
 Author: canpng
@@ -96,16 +77,16 @@ Depiction: https://canpng.github.io/repo/depictions/com.canpng.kinemaster.full/i
 Package: com.canpng.qrreader.full
 Architecture: iphoneos-arm
 Version: 8.7
-Section: Utilities
+Section: PNG - Full Apps
 Maintainer: canpng <cnylmz35@hotmail.com>
 Installed-Size: 524
 Depends: mobilesubstrate
 Filename: ./debians/com.canpng.qrreader.full_8.7_iphoneos-arm.deb
-Size: 139586
-MD5sum: 6d7ba4c45343a45058329e59508ffd2e
-SHA1: 1dbb20f57760a1ab09f3e6ea95c0d49f7edd5585
-SHA256: 602002d08fa4386782cf41296ecb1f42cbc8467e49e01949e108f4a9ddc24136
-SHA512: d2101dd1705abbe509a85e6674885becdc1a528691d98b0df9f81efe62fe494c0709d9f3ea09083e68feef5b8ac2ed8146450cb3b2a5246b960250a688584c33
+Size: 195944
+MD5sum: 336c4e145a4f30b8b94c5cdc927a1399
+SHA1: 222b429e56bba1208cbf7e4941aaaf74012b3d20
+SHA256: 4ca5bcd1e193e2fa994e286df1f38c7c1bf585b4008850f1d17170f88c69196b
+SHA512: 526b0514a96d5faf3d2db1a9f57b535926521fdcf13a2bee28bcbd2df1021fe24af3e37d0566c689c0d9f56ed7f7e37d2b99f093cc204cc0132bca8cdf2f6348
 Description: Makes QR Reader application Full.
 Name: QR Reader : Full
 Icon: https://canpng.github.io/repo/icons/QRreader.png
@@ -114,16 +95,16 @@ Depiction: https://canpng.github.io/repo/depictions/com.canpng.qrreader.full/ind
 
 Package: com.canpng.repoicons
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 3.0
 Essential: Yes
-Section: Themes
+Section: PNG - Themes
 Maintainer: canpng <cnylmz35@hotmail.com>
-Filename: ./debians/com.canpng.repoicons_1.0_iphoneos-arm.deb
-Size: 126848
-MD5sum: 0e0b52f7a26dfb98fa21d0f1a90d890e
-SHA1: c51eba6d7e9a56fbc10cff8ed5a206308afdd5d7
-SHA256: 0747d01879e8a4331a6729e0ea4e30c91b977de1ac6cf0750635bf85f0bd52c7
-SHA512: 49bafb3006c79b1da128206243535edf449d7100efa14b169d10b8da2342bd66a3af078bac846dabb2506cc470fa1066e6eabe6e4be180a496c447000bd23dd0
+Filename: ./debians/com.canpng.repoicons_3.0_iphoneos-arm.deb
+Size: 19434
+MD5sum: 17680d1b71129fe407edc1f579a392b3
+SHA1: ce261c39155c5772ecd661fd5996bb58cb3a264a
+SHA256: 1f2c4d98d164e63ab2ea35e04c7be08afa6c897b7b34f80926bb8e40024ef390
+SHA512: 56f3353c9567cbb262434f6d9f4825a520150f004b98c82378bc354111067f5e846512cbf2eb4b12a58f2de59e8909ef7d2978780999f8f76b23c72bc2853ca6
 Description: canpng's Repo Icons
 Name: canpng's Repo Icons
 Depiction: https://canpng.github.io/repo/depictions/com.canpng.repoicons/index.html
@@ -133,16 +114,16 @@ Icon: https://canpng.github.io/repo/icons/Themes.png
 Package: com.canpng.scanner.full
 Architecture: iphoneos-arm
 Version: 3.3
-Section: Utilities
+Section: PNG - Full Apps
 Maintainer: canpng <cnylmz35@hotmail.com>
 Installed-Size: 524
 Depends: mobilesubstrate
 Filename: ./debians/com.canpng.scanner.full_3.3_iphoneos-arm.deb
-Size: 139626
-MD5sum: 0092f66da3527f8706d0bfbc38ba9881
-SHA1: 99705137c58b5c8aa08eef3f60c76eddcba27aa7
-SHA256: e9f590f929e5f6c4721ccb72a6bcbd71536cc5c3f0cbd79c931ae572ecba1020
-SHA512: d35bda907bd02c7a50133231d3bc1d711b74c805169f57f6562f255ff350ffbd0ffdb93de9b5de5d3f3e14e2eaef43685e566945a30daac81efa0a27cef7b14c
+Size: 195968
+MD5sum: 5c587c0556be2003b6e0067e4050c962
+SHA1: 12c610188a878239f7f222fb2072a4b436326327
+SHA256: 3d2b3978265110cdeea37f4887521b4c7dd4473d975cec164e0b76a499b75806
+SHA512: 3fbbdddcb99063dbcaced6637a53029b5bb76e35a544c84fbe84de724fc2a0d60e401fd82e6356cd3df415ee233e6e7885cb773c438e9c93eae61f5c9cb11d7d
 Description: Makes Scanner application Full.
 Name: Scanner : Full
 Icon: https://canpng.github.io/repo/icons/Scanner.jpg
@@ -152,16 +133,16 @@ Depiction: https://canpng.github.io/repo/depictions/com.canpng.scanner.full/inde
 Package: com.canpng.weatherlive.full
 Architecture: iphoneos-arm
 Version: 7.2.11
-Section: Weather
+Section: PNG - Full Apps
 Maintainer: canpng <cnylmz35@hotmail.com>
 Installed-Size: 524
 Depends: mobilesubstrate
 Filename: ./debians/com.canpng.weatherlive.full_7.2.11_iphoneos-arm.deb
-Size: 139898
-MD5sum: 8c6858ce6140ebecf66b9e5a1f787ffe
-SHA1: 5065482b44a84e23b7abeeb4643bb49630989d70
-SHA256: da64788e7adacc619e48c3228b19bf79c10a0a088f11c11ba586a10be4693253
-SHA512: ac924fd97090fb7006b22b4c5892c55e7d7946a2c6cab33ba77efbfc4346587ebfbb99758b0cbf68f1f20d29ae2b64929cb04638466c16b3e88878cfc36e742c
+Size: 197060
+MD5sum: f43356409dee35db43a40687fe5a16c3
+SHA1: 519efabeaa357040cc68b92cbcde3a7472065e34
+SHA256: 2f38f9442d5fd6a325416b4ec7c5fc4c059e64a957ec385365823a61224ce610
+SHA512: ba0776737c1efce172ee9e52899d210fe173c4cd7d4f2b9eb9ff6be1972b50edafbd5494b8d102eaa572504036f40495ab8da801123420b5973b9d7e85653720
 Description: Makes Weather Live application Full.
 Name: Weather Live : Full
 Author: canpng <cnylmz35@hotmail.com>
