@@ -39,16 +39,16 @@ Depiction: https://canpng.github.io/repo/depictions/com.canpng.cpux.full/index.h
 Package: com.canpng.enabiz.bypass
 Architecture: iphoneos-arm
 Version: 2.9.11
-Section: Medical
+Section: PNG-Tweaks
 Maintainer: canpng <cnylmz35@hotmail.com>
 Installed-Size: 524
 Depends: mobilesubstrate
 Filename: ./debians/com.canpng.enabiz.bypass_2.9.11_iphoneos-arm.deb
-Size: 139146
-MD5sum: a44076aa4117a5adf41f64c97a7df059
-SHA1: 4871e2b708d5964930e6b0cfd4ad615151f1aa69
-SHA256: 1f1740faacbb9e2ba28d75595c903581b490180599885895b621e04931b9b0cf
-SHA512: 75bc4ef738a2e7641e6b0e62af35d051a1e65d3bcb428151859c95b2b2821e65bddcef96ceba6553bceaf2a69d82916ac4678e7d6884bd0054f98b8b10700e36
+Size: 195104
+MD5sum: 6305e666cd1ef437f1d6c062258dc0c9
+SHA1: e2da3bc77bbeb00b51dc413b5393e56ff651c52f
+SHA256: ad9d819bd833bbe2fb602986bcd86f51caa2b4cc3053aa9ae0799cf967290dc2
+SHA512: b8515a43f770379fa92687c1578a4aed5fc57b61959d7d813c4c138bda950d7f691c1933f35c011d64b1cbf7e7b3abddd4ae26436339b744115762bb350c08ad
 Description: Jailbreak Bypass patch for e-Nabız app
 Name: e-Nabız : Jailbreak Bypass
 Icon: https://canpng.github.io/repo/icons/eNabız.jpg
