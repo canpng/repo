@@ -55,6 +55,25 @@ Author: canpng <cnylmz35@hotmail.com>
 Icon: https://canpng.github.io/repo/icons/Tweak.png
 Depiction: https://canpng.github.io/repo/depictions/com.canpng.homegesture/index.html
 
+Package: com.canpng.ipadstatusbar
+Architecture: iphoneos-arm
+Version: 1.0
+Section: PNG - Tweaks
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debians/com.canpng.ipadstatusbar_1.0_iphoneos-arm.deb
+Size: 7918
+MD5sum: 38dfeb7202b331b9db40fbbf1c118614
+SHA1: 9d9c9c53164bc7b58e5182f19ab3a10ce0873fc4
+SHA256: c3753a19b5ca1be34cb7d9f2433daa3005d27b5e802d9e690b1e2c7767e9d3f0
+SHA512: 6943de5863237604a1368f5b64a9fce7da14317144295bfdb5030135317cfefb0ee58475cb2974b31d42e1edff7b11c1e115d62663f7ec5206137793d856d161
+Description: iPad Status Bar for old iDevices.
+Name: iPad Status Bar
+Icon: https://canpng.github.io/repo/icons/PNG-Tweaks.png
+Author: canpng <cnylmz35@hotmail.com>
+Depiction: https://canpng.github.io/repo/depictions/com.canpng.ipadstatusbar/index.html
+
 Package: com.canpng.kinemaster.full
 Architecture: iphoneos-arm
 Version: 5.2.1
