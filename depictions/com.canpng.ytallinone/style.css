@@ -31,6 +31,15 @@ body {
     margin-left: 10px;
 }
 
+.author-twitter2 {
+	background-image: url(https://canpng.github.io/repo/icons/poomsmart.jpg);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
 .fl-lf {
     float: left;
 }
@@ -60,7 +69,7 @@ hr {
 }
 
 .app-icon {
-    background-image: url(https://canpng.github.io/repo/icons/Bonusflas.jpg);
+    background-image: url(https://canpng.github.io/repo/icons/TweaksFS.png);
     height: 80px;
     width: 80px;
     background-size: cover;
