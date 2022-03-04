@@ -168,3 +168,23 @@ Author: canpng <cnylmz35@hotmail.com>
 Icon: https://canpng.github.io/repo/icons/WeatherLive.png
 Depiction: https://canpng.github.io/repo/depictions/com.canpng.weatherlive.full/index.html
 
+Package: com.canpng.ytallinone
+Architecture: iphoneos-arm
+Version: 17.05.2
+Section: PNG - Tweaks
+Maintainer: canpng <cnylmz35@hotmail.com>
+Installed-Size: 656
+Depends: mobilesubstrate
+Conflicts: com.ps.youpip, weeb.lillie.youtubedislikesreturn, com.ps.noytpremium, com.ps.youarethere, com.ps.ytclassicvideoquality, com.ps.ytreexplore, com.ps.ytuhd
+Filename: ./debians/com.canpng.ytallinone_17.05.2_iphoneos-arm.deb
+Size: 268160
+MD5sum: a13cc5d43f3c968077c22550c68f08de
+SHA1: aeef5a999c1138793bda27699c055c3d655dbf75
+SHA256: aa96f639e4aaa06bd73181e3bd77372a8192fb395cc67233e22f7b8679f4d84a
+SHA512: efe0054b1439f7bc98bed730bcbfcc48c1800c0a9404b76af0145c346c757e8725c733b76ea0518bf87d22750e9ca0a3bfa345d326ff1ee4a9bde4630b78e011
+Description: YouTube No Ads and Play Background.
+Name: YouTube : No Ads
+Icon: https://canpng.github.io/repo/icons/YouTube.png
+Author: canpng <cnylmz35@hotmail.com>
+Depiction: https://canpng.github.io/repo/depictions/com.canpng.ytallinone/index.html
+
