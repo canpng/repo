@@ -32,6 +32,6 @@ Cydia, Sileo, Zebra, Installer ile uyumludur.
 ## Telegram Grubumuza Katılın
 
 Hızlı destek için Telegram grubumuza katılın.
-- [AppleFavour Telegram](https://t.me/applefavour) Tıkla gel
+- [AppleFavour Telegram](https://t.me/applefavour) Tıkla aramıza katıl
 
   
