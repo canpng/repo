@@ -1,5 +1,5 @@
 
-![Logo](https://applefavour.com/icons/applefavourcom.png)
+![Logo](https://applefavour.com/icons/favourcom.png)
 
     
 # AppleFavour Repo
